@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[news | ]]></title>
+  <link href="http://localhost:4000//news/atom.xml" rel="self"/>
+  <link href="http://localhost:4000/"/>
+  <updated>2015-12-10T11:45:55-08:00</updated>
+  <id>http://localhost:4000/</id>
+  <author>
+    <name><![CDATA[]]></name>
+    
+  </author>
+  <generator uri="https://github.com/recurser/jekyll-plugins">Recurser</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Digital Humanities at Stanford]]></title>
+    <link href="http://localhost:4000/2015/02/26/success/"/>
+    <updated>2015-02-26T05:53:48-08:00</updated>
+    <id>http://localhost:4000/2015/02/26/success</id>
+    <content type="html"><![CDATA[<p>Readymade health goth food truck, vegan tilde YOLO chambray selvage. Blog banh mi typewriter, Echo Park ethical PBR&amp;B Portland tousled leggings flexitarian gentrify. Twee Etsy wayfarers, drinking vinegar 8-bit stumptown Marfa heirloom butcher Bushwick readymade. Bicycle rights Portland YOLO, put a bird on it flexitarian brunch polaroid Schlitz. Literally Intelligentsia pop-up wayfarers 3 wolf moon, tofu Wes Anderson DIY master cleanse plaid 8-bit church-key leggings. American Apparel sustainable street art, direct trade taxidermy wolf cardigan tattooed ennui. Migas food truck selfies mumblecore dreamcatcher, pickled squid jean shorts.</p>
+]]></content>
+  </entry>
+  
+</feed>
