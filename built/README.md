@@ -1,4 +1,6 @@
-# ockham
+# Ockham
+
+**IN DEVELOPMENT**
 
 Ockham is a platform for publishing collaborative research in the
 humanities built on top of [Jekyll](http://jekyllrb.com).
