@@ -14,11 +14,6 @@ markdown:                 redcarpet
 highlighter:              rouge
 description:              "The Center for Spatial and Textual Analysis labs and projects pursue research which utilize data and information visualization that span a variety of methodologies, disciplines, and departments, often collaborating with diverse team members from within the Stanford community, but also externally through national and international collaborations. "
 destination:              'built'
-category_dir:             ''
-category_title_prefix :   ''
-category_title :          ''
-google_id:                ''
-disqus:                   ''
 url:                      'http://localhost:4000'
 permalink:                /:year/:month/:day/:title/
 twitter:                  'CESTA_Stanford'
@@ -37,14 +32,10 @@ banner-img-url:    "https://googledrive.com/host/0B_L3W8DD67iAVUktdHIxN0RnUjA/"
 nav:
   - title: Home
     url: /
-  - title: "People"
-    url: /people/
-  - title: "Certificate of Digital Humanities"
-    url: /gcdh/
-  - title: "Resources"
-    url: /resources/
   - title: "About"
     url: /about/
+  - title: "People"
+    url: /people/
   - title: "Labs"
     url: /labs/
     subcategories:
@@ -56,13 +47,26 @@ nav:
         suburl: /litlab/
       - subtitle: "Poetic Media"
         suburl: /poetic/
-  - title: "Projects"
-    url: /projects/
+  - title: "Teaching"
+    url: /teaching/
     subcategories:
-      - subtitle: "Ockham"
-        suburl: /ockham/
-      - subtitle: "Chinese Railroad Workers Project"
-        suburl: /crrw/
+      - subtitle: "Graduate Certificate of Digital Humanities"
+        suburl:   /teaching/gcdh/
+      - subtitle: "Digital Humanities Undergraduate Minor"
+        suburl:   /teaching/dh-minor/
+      - subtitle: "Digital History Reading Group"
+        suburl:   /teaching/dh-reading/
+      - subtitle: "Digital Humanities Graduate Fellows"
+        suburl:   /teaching/dh-fellows/
+  - title: "Resources"
+    url: /resources/
+  - title: "Affiliates"
+    url: /affiliates/
+    subcategories:
+      - subtitle: "Stanford Humanities Center"
+        url: http://shc.stanford.edu
+      - subtitle: "DH@Stanford"
+        url: http://digitalhumanities.stanford.edu
 
 ###
 # Exclude

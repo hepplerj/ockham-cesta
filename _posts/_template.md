@@ -1,10 +1,8 @@
 ---
 layout: post
 title: "This post demonstrates post content styles"
-categories: sample
+categories: [sample]
 author: "Bart Simpson"
-published:false
-meta: "Springfield"
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
